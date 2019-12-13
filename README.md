@@ -9,11 +9,9 @@ In the example shown in this repo, the duck class having different implementatio
 of this design pattern. Due to us programming to an interface (and not an implementation), we have successfully
 implemented the Strategy Pattern! Notice how this pattern has **NOT** been used to implement the duck call object
 
-
-```java
-if (testcode) {
-    System.out.println("Testing out code!")
-}
-```
+Questions: 
+1. what is meant by 'favour composition over inheritance?' 
+2. Define what 'Algorithms' mean in the opening statement
+3. What is a potential negative to using this pattern?
 
 [Github markdown](https://guides.github.com/features/mastering-markdown/)
