@@ -1,4 +1,4 @@
-package main.strategy_pattern.behaviour;
+package main.strategy_pattern.MiniDuckSim.behaviour;
 
 public class FlyRocketPowered implements FlyBehaviour {
     @Override

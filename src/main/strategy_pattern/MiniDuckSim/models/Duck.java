@@ -1,7 +1,7 @@
-package main.strategy_pattern.models;
+package main.strategy_pattern.MiniDuckSim.models;
 
-import main.strategy_pattern.behaviour.FlyBehaviour;
-import main.strategy_pattern.behaviour.QuackBehaviour;
+import main.strategy_pattern.MiniDuckSim.behaviour.FlyBehaviour;
+import main.strategy_pattern.MiniDuckSim.behaviour.QuackBehaviour;
 
 public abstract class Duck {
 

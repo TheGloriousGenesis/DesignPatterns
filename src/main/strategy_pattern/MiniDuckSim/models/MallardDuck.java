@@ -1,4 +1,4 @@
-package main.strategy_pattern.models;
+package main.strategy_pattern.MiniDuckSim.models;
 
 public class MallardDuck extends Duck {
 

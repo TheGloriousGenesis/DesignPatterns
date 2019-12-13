@@ -1,6 +1,6 @@
-package main.strategy_pattern.models;
+package main.strategy_pattern.MiniDuckSim.models;
 
-import main.strategy_pattern.behaviour.FlyBehaviour;
+import main.strategy_pattern.MiniDuckSim.behaviour.FlyBehaviour;
 
 public class FlyWithWings implements FlyBehaviour {
     @Override

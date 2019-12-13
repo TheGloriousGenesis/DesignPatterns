@@ -1,10 +1,10 @@
-package main.strategy_pattern;
+package main.strategy_pattern.MiniDuckSim;
 
-import main.strategy_pattern.behaviour.FlyRocketPowered;
-import main.strategy_pattern.models.Duck;
-import main.strategy_pattern.models.DuckCall;
-import main.strategy_pattern.models.MallardDuck;
-import main.strategy_pattern.models.ModelDuck;
+import main.strategy_pattern.MiniDuckSim.behaviour.FlyRocketPowered;
+import main.strategy_pattern.MiniDuckSim.models.Duck;
+import main.strategy_pattern.MiniDuckSim.models.DuckCall;
+import main.strategy_pattern.MiniDuckSim.models.MallardDuck;
+import main.strategy_pattern.MiniDuckSim.models.ModelDuck;
 
 public class MiniDuckSim {
 
